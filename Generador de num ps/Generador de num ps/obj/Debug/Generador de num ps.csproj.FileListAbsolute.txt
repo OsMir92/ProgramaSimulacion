@@ -1,0 +1,11 @@
+C:\Users\Elizondo\Documents\Universiadad\Simulacion\Generador de num ps\Generador de num ps\bin\Debug\Generador de num ps.exe.config
+C:\Users\Elizondo\Documents\Universiadad\Simulacion\Generador de num ps\Generador de num ps\bin\Debug\Generador de num ps.exe
+C:\Users\Elizondo\Documents\Universiadad\Simulacion\Generador de num ps\Generador de num ps\bin\Debug\Generador de num ps.pdb
+C:\Users\Elizondo\Documents\Universiadad\Simulacion\Generador de num ps\Generador de num ps\obj\Debug\Generador de num ps.csprojResolveAssemblyReference.cache
+C:\Users\Elizondo\Documents\Universiadad\Simulacion\Generador de num ps\Generador de num ps\obj\Debug\Generador_de_num_ps.Generador.resources
+C:\Users\Elizondo\Documents\Universiadad\Simulacion\Generador de num ps\Generador de num ps\obj\Debug\Generador_de_num_ps.Properties.Resources.resources
+C:\Users\Elizondo\Documents\Universiadad\Simulacion\Generador de num ps\Generador de num ps\obj\Debug\Generador de num ps.csproj.GenerateResource.Cache
+C:\Users\Elizondo\Documents\Universiadad\Simulacion\Generador de num ps\Generador de num ps\obj\Debug\Generador de num ps.csproj.CoreCompileInputs.cache
+C:\Users\Elizondo\Documents\Universiadad\Simulacion\Generador de num ps\Generador de num ps\obj\Debug\Generador de num ps.exe
+C:\Users\Elizondo\Documents\Universiadad\Simulacion\Generador de num ps\Generador de num ps\obj\Debug\Generador de num ps.pdb
+C:\Users\Elizondo\Documents\Universiadad\Simulacion\Generador de num ps\Generador de num ps\obj\Debug\Generador_de_num_ps.AboutBox.resources

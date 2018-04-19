@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generador de num ps", "Generador de num ps\Generador de num ps.csproj", "{76B1EDBC-E509-49AF-AC94-9B2FADE9E753}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76B1EDBC-E509-49AF-AC94-9B2FADE9E753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B1EDBC-E509-49AF-AC94-9B2FADE9E753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B1EDBC-E509-49AF-AC94-9B2FADE9E753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B1EDBC-E509-49AF-AC94-9B2FADE9E753}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1E7BD0A-653F-4CEA-9D6A-0C462608B079}
+	EndGlobalSection
+EndGlobal
