@@ -42,12 +42,13 @@
             this.numN = new System.Windows.Forms.NumericUpDown();
             this.label6 = new System.Windows.Forms.Label();
             this.TablaResulatdos = new System.Windows.Forms.DataGridView();
-            this.label7 = new System.Windows.Forms.Label();
-            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.ColumnaN = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ColumnaXn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ColumnaXn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ColumnaR = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.label7 = new System.Windows.Forms.Label();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
+            this.label8 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.numSemilla)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numA)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numC)).BeginInit();
@@ -213,17 +214,6 @@
             this.TablaResulatdos.Size = new System.Drawing.Size(444, 260);
             this.TablaResulatdos.TabIndex = 12;
             // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(537, 13);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(65, 13);
-            this.label7.TabIndex = 13;
-            this.label7.Text = "Acerca de";
-            this.label7.Click += new System.EventHandler(this.label7_Click);
-            // 
             // ColumnaN
             // 
             this.ColumnaN.HeaderText = "n";
@@ -248,11 +238,32 @@
             this.ColumnaR.Name = "ColumnaR";
             this.ColumnaR.ReadOnly = true;
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(537, 13);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(65, 13);
+            this.label7.TabIndex = 13;
+            this.label7.Text = "Acerca de";
+            this.label7.Click += new System.EventHandler(this.label7_Click);
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(42, 244);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(93, 13);
+            this.label8.TabIndex = 14;
+            this.label8.Text = "nueva mdificacion";
+            // 
             // Generador
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(643, 378);
+            this.Controls.Add(this.label8);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.TablaResulatdos);
             this.Controls.Add(this.label6);
@@ -302,6 +313,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn ColumnaXn;
         private System.Windows.Forms.DataGridViewTextBoxColumn ColumnaXn1;
         private System.Windows.Forms.DataGridViewTextBoxColumn ColumnaR;
+        private System.Windows.Forms.Label label8;
     }
 }
 
